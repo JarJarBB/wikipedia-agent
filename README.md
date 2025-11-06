@@ -71,9 +71,3 @@ Example log entry:
 ```
 User Input → LLM Checks Content → LLM Clarification → WikipediaRetriever → Quote Extraction → Summary → Logging
 ```
-
----
-
-## 📄 License
-
-MIT License © 2025
